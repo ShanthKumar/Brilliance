@@ -1,0 +1,103 @@
+﻿body 
+{
+    margin:auto;
+    width:1200px;
+    height:auto;
+	color: #333333;
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-size: 16px;
+	font-style: normal;
+  font-weight:normal;
+}
+#members
+{
+	border: #e0e0e0 double 2px;
+	margin-left: 2%;
+	margin-top: 5px;
+	background-color: #FFFFFF;
+	    color: #333333;
+}
+.search
+{
+    color: #333333;
+     
+}
+.txt
+{
+    margin-top:2%;
+}
+.table
+{
+	background-color: #FFFFFF;
+	margin-top: -2%;
+	margin-left: 0%;
+	width:946px;
+	color: #333333;    
+	text-align: left;
+	vertical-align: top;
+}
+.panel
+{
+    background-color: #FFFFFF;
+    text-align: left;
+    color: #333333;
+    font-style: normal;
+  font-weight:normal;
+}
+.details
+{
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	color: rgb(255, 255, 255);
+	font-weight: 700;
+	text-align: left;
+	vertical-align: text-top;
+	font-size: 15px;
+	background-color: #0099FF;
+	line-height: 30px;
+	font-style: normal;
+  font-weight:700;
+  
+}
+.subdetails
+{
+    color: #0000FF;
+    font-size: 15px;
+    font-family: Georgia, Serif;
+    font-style: normal;
+  font-weight:normal;
+}
+.row
+{
+	width: 200px;
+}
+.label
+{
+	Width:150px;
+	 Height:40px;
+}
+.next
+{
+	text-align:center;
+}
+.btn1
+{
+	margin-top: -6%;
+	width: 100px;
+	height: 31px;
+}
+.btn
+{
+	vertical-align:middle;
+	width:100px;
+	height:31px;
+	
+}
+.img
+{
+	width:80px;
+}
+ .style4
+ {
+width: 163px;
+ }
+ 
